@@ -1,3 +1,10 @@
 {
-  "python.pythonPath": "venv/bin/python"
+  "python.pythonPath": "venv/bin/python",
+  "emmet.includeLanguages": {
+    "django-html": "html"
+  },
+  "files.associations": {
+    "*.html": "html",
+    // "**/requirements{/**,*}.{txt,in}": "pip-requirements"
+},
 }
