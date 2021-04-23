@@ -1,5 +1,9 @@
 {
   "python.pythonPath": "venv/bin/python",
+  "[python]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4
+  },
   "emmet.includeLanguages": {
     "django-html": "html"
   },
